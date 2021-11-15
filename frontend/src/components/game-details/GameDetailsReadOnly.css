@@ -1,0 +1,15 @@
+.container{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.header{
+    text-align: center;
+    overflow: hidden;
+}
+
+.header-element-icon{
+    float: left
+}
+.header-element-text{
+}
