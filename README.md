@@ -14,10 +14,16 @@ During the development phase of a project, developers are facing a challenge of 
 
 Do My Task is a Devs hackathon project to help developers selecting tasks in a tinder dating style. Everyone can create a task and invite people on our webapp. The invited developers can then accept or decline base on the task description or the host people. 
 
-Do My Task uses:
-React
-Express
-Material UI
+  
+## Technology used
+**Backend**
+
+Node.js || Express Server || Squelize ORM || SQLite || POSTMAN (API testing)
+
+**Frontend**
+
+Node.js || React || Nodemailer || HTML || CSS || Material UI
+  
 
 Official site: https://do-my-task.herokuapp.com/
 </div>
