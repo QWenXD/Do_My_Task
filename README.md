@@ -22,7 +22,7 @@ Node.js || Express Server || Squelize ORM || SQLite || POSTMAN (API testing)
 
 **Frontend**
 
-Node.js || React || Nodemailer || HTML || CSS || Material UI
+Node.js || React || HTML || CSS || Material UI
   
 
 Official site: https://do-my-task.herokuapp.com/
